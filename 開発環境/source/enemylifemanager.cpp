@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‘Ì—Í•\¦‚ÌŠÇ—ƒNƒ‰ƒX(enemylifemanager.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "enemylifemanager.h"

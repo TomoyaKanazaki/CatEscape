@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‘Ì—Í•\¦‚ÌŠÇ—ƒNƒ‰ƒX(enemylifemanager.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _ENEMY_LIFE_MANAGER_H_

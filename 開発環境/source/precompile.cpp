@@ -1,7 +1,7 @@
 //==========================================
 //
 //  プリコンパイルヘッダ(precompile.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "precompile.h"

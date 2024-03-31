@@ -1,7 +1,7 @@
 //==========================================
 //
 //  タイトルシーンのカメラ(camera_result.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "camera_result.h"

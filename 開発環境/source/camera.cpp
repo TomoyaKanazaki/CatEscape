@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ƒJƒƒ‰ƒNƒ‰ƒX(camera.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "camera.h"

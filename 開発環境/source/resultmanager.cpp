@@ -1,7 +1,7 @@
 //==========================================
 //
 //  リザルトマネージャ(resultmanager.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "resultmanager.h"

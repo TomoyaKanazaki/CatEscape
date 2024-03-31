@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ’ñ“”‚¨‰»‚¯(enemy_lantern.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "enemy_lantern.h"

@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‘Ì—Í•\Ž¦(bosslife.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "bosslife.h"

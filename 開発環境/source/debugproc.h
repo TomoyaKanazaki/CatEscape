@@ -2,7 +2,7 @@
 //
 //デバッグ表示処理 [debugproc.h]
 //Author Ibuki Okusada
-// Added by Tomoya Kanazaki
+// Added by Chaba
 //
 //==========================================================
 #ifndef _DEBUGPROC_H_		//このマクロが定義されていない場合

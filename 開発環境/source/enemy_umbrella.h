@@ -1,7 +1,7 @@
 //==========================================
 //
 //  “‚Š}‚¨‰»‚¯(enemy_umbrella.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _ENEMY_UMBRELLA_H_

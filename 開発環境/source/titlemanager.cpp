@@ -1,7 +1,7 @@
 //==========================================
 //
 //  タイトルマネージャ(titlemanager.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "titlemanager.h"

@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ”š”­ƒNƒ‰ƒX(explosion.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _EXPLOSION_H_

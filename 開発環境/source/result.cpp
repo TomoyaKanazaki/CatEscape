@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ÉçÉS(result.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "result.h"

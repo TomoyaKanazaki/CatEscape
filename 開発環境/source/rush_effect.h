@@ -1,7 +1,7 @@
 //==========================================
 //
 //  連撃エフェクト(rush_effect.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _RUSH_EFFECT_H_

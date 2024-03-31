@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ゲーム内時間計測のクラス(gametime.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "gametime.h"

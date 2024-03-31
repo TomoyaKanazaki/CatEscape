@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ボスクラス(boss.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "boss_result.h"

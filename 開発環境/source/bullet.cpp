@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ’eƒNƒ‰ƒX(bullet.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "bullet.h"

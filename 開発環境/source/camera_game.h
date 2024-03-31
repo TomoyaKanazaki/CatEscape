@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ゲームシーンのカメラ(camera_game.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _CAMERA_GAME_H_

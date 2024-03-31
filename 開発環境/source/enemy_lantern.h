@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ’ñ“”‚¨‰»‚¯(enemy_lantern.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _ENEMY_LANTERN_H_

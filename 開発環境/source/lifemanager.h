@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‘Ì—Í•\¦‚ÌŠÇ—ƒNƒ‰ƒX(lifemanager.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _LIFE_MANAGER_H_

@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ヒット時のエフェクト(hit_effect.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "hit_effect.h"

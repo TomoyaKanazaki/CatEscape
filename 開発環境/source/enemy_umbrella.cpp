@@ -1,7 +1,7 @@
 //==========================================
 //
 //  “‚Š}‚¨‰»‚¯(enemy_umbrella.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "enemy_umbrella.h"

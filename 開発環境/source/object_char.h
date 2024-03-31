@@ -1,7 +1,7 @@
 //==========================================
 //
 //  オブジェクトキャラクター(object_char.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _OBJECT_CHAR_H_

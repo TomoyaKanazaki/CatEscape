@@ -1,7 +1,7 @@
 //==========================================
 //
 //  Ža‚ç‚ê‚½ƒ|ƒŠƒSƒ“(cut_polygon.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "cut_polygon.h"

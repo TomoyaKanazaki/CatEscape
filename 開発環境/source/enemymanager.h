@@ -1,7 +1,7 @@
 //==========================================
 //
 //  エネミーマネージャ(enemymanager.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _ENEMY_MANAGER_H_

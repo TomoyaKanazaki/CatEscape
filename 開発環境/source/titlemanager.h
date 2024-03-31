@@ -1,7 +1,7 @@
 //==========================================
 //
 //  タイトルマネージャ(titlemanager.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _TITLEMANAGER_H_

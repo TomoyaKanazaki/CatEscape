@@ -1,7 +1,7 @@
 //==========================================
 //
 //  斬撃エフェクト(slash_effect.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _SLASH_EFFECT_H_

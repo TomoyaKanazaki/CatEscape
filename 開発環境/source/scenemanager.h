@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‰æ–Ê‘JˆÚŠÇ—ƒNƒ‰ƒX(scenemanager.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _SCENEMANAGER_H_

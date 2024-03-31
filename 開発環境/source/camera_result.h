@@ -1,7 +1,7 @@
 //==========================================
 //
 //  タイトルシーンのカメラ(camera_result.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _CAMERA_RESULT_H_

@@ -1,7 +1,7 @@
 //==========================================
 //
 //  アニメーション2Dクラス(object2D.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "object2D_Anim.h"

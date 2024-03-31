@@ -1,7 +1,7 @@
 //==========================================
 //
 //  人形クラス(running.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "running.h"

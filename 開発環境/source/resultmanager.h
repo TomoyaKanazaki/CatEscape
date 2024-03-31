@@ -1,7 +1,7 @@
 //==========================================
 //
 //  リザルトマネージャ(resultmanager.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _RESULTMANAGER_H_

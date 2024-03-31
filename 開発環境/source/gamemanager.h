@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ゲームマネージャクラス(gamemanager.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _GAMEMANAGER_H_

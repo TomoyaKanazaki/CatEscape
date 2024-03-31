@@ -1,7 +1,7 @@
 //==========================================
 //
 //  スティックぐりぐりUI(stick_base.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "stick_base.h"

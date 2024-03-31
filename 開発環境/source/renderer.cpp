@@ -1,7 +1,7 @@
 //==========================================
 //
 //  レンダラークラス(renderer.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "renderer.h"

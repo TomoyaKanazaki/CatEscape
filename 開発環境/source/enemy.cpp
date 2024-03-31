@@ -1,7 +1,7 @@
 //==========================================
 //
 //  “GƒNƒ‰ƒX(enemy.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "enemy.h"

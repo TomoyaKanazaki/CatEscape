@@ -1,7 +1,7 @@
 //==========================================
 //
 //  メッシュオブジェクトクラス(object_mesh.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "object_mesh.h"

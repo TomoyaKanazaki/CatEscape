@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ’eƒNƒ‰ƒX(explosion.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "explosion.h"

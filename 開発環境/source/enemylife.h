@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‘Ì—Í•\Ž¦(enemylife.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _ENEMY_LIFE_H_

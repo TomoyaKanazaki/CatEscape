@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ボスクラス(boss_result.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _BOSS_RESULT_H_

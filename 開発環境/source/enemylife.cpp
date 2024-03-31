@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‘Ì—Í•\Ž¦(enemylife.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "enemylife.h"

@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‘€ì•û–@(tutorial.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "tutorial.h"

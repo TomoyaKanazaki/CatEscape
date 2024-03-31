@@ -1,7 +1,7 @@
 //==========================================
 //
 //  “’eƒNƒ‰ƒX(blade.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "blade.h"

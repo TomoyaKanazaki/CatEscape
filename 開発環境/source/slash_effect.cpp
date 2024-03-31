@@ -1,7 +1,7 @@
 //==========================================
 //
 //  斬撃エフェクト(slash_effect.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "slash_effect.h"

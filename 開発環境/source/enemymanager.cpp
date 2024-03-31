@@ -1,7 +1,7 @@
 //==========================================
 //
 //  エネミーマネージャ(enemymanager.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "enemymanager.h"

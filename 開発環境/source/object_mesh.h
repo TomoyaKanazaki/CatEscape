@@ -1,7 +1,7 @@
 //==========================================
 //
 //  メッシュオブジェクトクラス(object_mesh.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _OBJECT_MESH_H_

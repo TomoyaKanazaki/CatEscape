@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ‘Ì—Í•\¦‚ÌŠÇ—ƒNƒ‰ƒX(lifemanager.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "lifemanager.h"

@@ -1,7 +1,7 @@
 //==========================================
 //
 //  マネージャクラス(manager.cpp)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #include "manager.h"

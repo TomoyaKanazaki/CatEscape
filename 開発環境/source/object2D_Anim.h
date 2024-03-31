@@ -1,7 +1,7 @@
 //==========================================
 //
 //  アニメーション2Dクラス(object2D_Anim.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _OBJECT2D_ANIM_H_

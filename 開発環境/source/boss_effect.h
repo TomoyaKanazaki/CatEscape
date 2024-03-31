@@ -1,7 +1,7 @@
 //==========================================
 //
 //  ボスの出現エフェクト(boss_effect.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _BOSS_EFFECT_H_

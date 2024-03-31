@@ -1,7 +1,7 @@
 //==========================================
 //
 //  アニメーション3Dクラス(object3D_Anim.h)
-//  Author : Tomoya Kanazaki
+//  Author : Chaba
 //
 //==========================================
 #ifndef _OBJECT3D_ANIM_H_
